@@ -1,0 +1,60 @@
+.container-fluid{
+    width: 90%;
+}
+
+.navbar-brand{
+    color: rgb(30, 28, 28);
+}
+
+.me-2{
+    width: 45% !important;
+    border-radius: 8px;
+}
+
+.notes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.addNoteContainer{
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+
+.input_title{
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    margin-bottom: 6px;
+}
+
+.input_descp{
+    border: none;
+}
+
+.button_save{
+    border-radius: 10px;
+}
+
+.card{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.card_btns{
+    border-radius: 50%;
+    padding: 7px;
+}
+.navbar{
+    background-color: rgb(85, 85, 85);
+}
+.navbar-brand{
+    color: white;
+}
+.delete_btn{
+    color: white;
+}
+.edit_btn{
+    color: white;
+}
